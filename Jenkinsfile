@@ -8,7 +8,7 @@ stages {
     steps {
   
       echo "This job is executed for jenkins pipeline job"
-    }
+    
     }
   
 }
